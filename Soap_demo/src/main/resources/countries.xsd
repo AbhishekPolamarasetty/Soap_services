@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- xs prefix is commonly used as a namespace prefix for elements and types defined by the XML Schema namespace.
+ The XML Schema namespace is identified by the URI "http://www.w3.org/2001/XMLSchema".-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.com/example/soapdemo/entity"
            targetNamespace="http://www.com/example/soapdemo/entity" elementFormDefault="qualified">
 
