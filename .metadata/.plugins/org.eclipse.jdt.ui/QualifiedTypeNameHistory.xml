@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jakarta.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="org.springframework.ws.config.annotation.WsConfigurationSupport"/>
+    <fullyQualifiedTypeName name="com.example.repository.CountryRepository"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="com.example.entity.Country"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.PostConstruct"/>
     <fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.Endpoint"/>
-    <fullyQualifiedTypeName name="com.example.repository.CountryRepository"/>
+    <fullyQualifiedTypeName name="com.example.Repository.CountryRepository"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.PayloadRoot"/>
     <fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.ResponsePayload"/>
+    <fullyQualifiedTypeName name="com.example.entity.GetCountryResponse"/>
     <fullyQualifiedTypeName name="org.springframework.ws.server.endpoint.annotation.RequestPayload"/>
     <fullyQualifiedTypeName name="com.example.entity.GetCountryRequest"/>
-    <fullyQualifiedTypeName name="com.example.entity.GetCountryResponse"/>
-    <fullyQualifiedTypeName name="org.springframework.ws.config.annotation.WsConfigurationSupport"/>
-    <fullyQualifiedTypeName name="org.springframework.ws.config.annotation.WsConfigurerAdapter"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.ws.config.annotation.EnableWs"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.boot.web.servlet.ServletRegistrationBean"/>
     <fullyQualifiedTypeName name="org.springframework.ws.transport.http.MessageDispatcherServlet"/>
     <fullyQualifiedTypeName name="org.apache.catalina.core.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition"/>
     <fullyQualifiedTypeName name="org.springframework.xml.xsd.XsdSchema"/>
     <fullyQualifiedTypeName name="org.springframework.xml.xsd.SimpleXsdSchema"/>
     <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+    <fullyQualifiedTypeName name="org.springframework.ws.config.annotation.WsConfigurerAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
 </qualifiedTypeNameHistroy>
