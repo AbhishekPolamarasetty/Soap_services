@@ -1,0 +1,13 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+				  xmlns:gs="http://www.com/soapproducing/soapdemo/entity">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getCountryRequest>
+         <gs:name>Spain</gs:name>
+      </gs:getCountryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+
+
+<!-- curl header "content-type: text/xml" -d @request.xml http://localhost:8085/ws -->

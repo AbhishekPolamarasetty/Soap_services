@@ -4,6 +4,7 @@
 		<item key="terminalLabel" value="Local Terminal"/>
 		<section name="SettingsPanelControl">
 			<section name="Git Bash">
+				<item key="encoding" value="UTF-8"/>
 			</section>
 			<section name="Local Terminal">
 				<item key="encoding" value="UTF-8"/>

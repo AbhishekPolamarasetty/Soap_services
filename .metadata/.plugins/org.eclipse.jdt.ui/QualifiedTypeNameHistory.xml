@@ -28,4 +28,5 @@
     <fullyQualifiedTypeName name="org.springframework.ws.config.annotation.WsConfigurerAdapter"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="com.example.soapdemo.entity.Currency"/>
+    <fullyQualifiedTypeName name="com.soapproducing.soapdemo.entity.Currency"/>
 </qualifiedTypeNameHistroy>
